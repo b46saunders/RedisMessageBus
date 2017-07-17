@@ -1,0 +1,1 @@
+﻿return redis.call('RPUSH',KEYS[1],ARGV[1]);
